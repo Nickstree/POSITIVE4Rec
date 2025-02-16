@@ -4,7 +4,7 @@
 pip install -r requirements.txt
 ```
 ## Usage
-* SASRec and BERT4Rec
+* For SASRec and BERT4Rec
     ```
     cd RecBole
     ```
@@ -17,7 +17,7 @@ pip install -r requirements.txt
         bash benchmark_PIB.sh
         ```
 
-* TiSASRec
+* For TiSASRec
     ```
     cd RecBole-TRM
     ```
