@@ -1,4 +1,4 @@
-# POSITIVE4Rec: A Positional Inductive Bias for Sequential Recommendation
+# POSITIVE4Rec: Incorporating the Recency Effect with Positional Inductive Bias for Sequential Recommendation
 ## Preparation
 ```
 pip install -r requirements.txt
