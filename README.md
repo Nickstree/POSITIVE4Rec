@@ -18,4 +18,4 @@ pip install -r requirements.txt
         ```
 
 ## Acknowledgement
-This repo is based on [RecBole](https://github.com/RUCAIBox/RecBole) and [RecBole-TRM](https://github.com/RUCAIBox/RecBole-TRM).
+This repo is based on [RecBole](https://github.com/RUCAIBox/RecBole).
