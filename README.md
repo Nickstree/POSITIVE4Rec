@@ -1,4 +1,5 @@
 # POSITIVE4Rec: Incorporating the Recency Effect with Positional Inductive Bias for Sequential Recommendation
+Source code for paper: [POSITIVE4Rec: Incorporating the Recency Effect with Positional Inductive Bias for Sequential Recommendation](https://dl.acm.org/doi/10.1145/3805622.3810668).
 ## Preparation
 ```
 pip install -r requirements.txt
